@@ -35,3 +35,6 @@ public class EmployeeInformation {
 }
 
 ```
+# Output
+![Screenshot (69)](https://github.com/21002624/EX-5-Create-a-table-by-the-following/assets/113762183/8e2c0a9e-555f-4fcc-92ef-a0a59c44f2df)
+
